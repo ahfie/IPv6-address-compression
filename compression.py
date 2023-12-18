@@ -20,7 +20,7 @@ def convert_ipv6(address):
             str_add.insert(index, '')
         
     return ':'.join(str_add)
-
+#abc this function is ...
 def zero_sequences(address):
     N = len(address)
     result = []
